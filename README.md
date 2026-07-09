@@ -14,8 +14,3 @@ I am an Information Technology student passionate about Artificial Intelligence,
 ### Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/nguyễn-khả-lực-6ab721338)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/khaluc)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your_email@gmail.com)
-
-For more information, please visit my portfolio:
-**https://your-portfolio.com**
