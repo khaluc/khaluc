@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1151" height="407" alt="image" src="https://github.com/user-attachments/assets/edfaff12-2e3a-45d4-a0d8-b19530a9aec8" /><p align="center">
   <img src="https://media.tenor.com/pyTiAg1EDEsAAAAi/go-0529dream-hugo.gif" alt="Whale GIF" width="250"/>
 </p>
 <h1 align="center">Hi 👋, I'm Kha</h1>
@@ -13,4 +13,4 @@ I am an Information Technology student passionate about Artificial Intelligence,
 
 ### Connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/nguyễn-khả-lực-6ab721338)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nguyễn-khả-lục-6ab721338)
