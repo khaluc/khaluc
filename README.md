@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.tenor.com/pyTiAg1EDEsAAAAi/go-0529dream-hugo.gif" alt="Whale GIF" width="250"/>
 </p>
-<h1 align="center">Hi 👋, I'm Kha</h1>
+<h1 align="center">Hi 👋, I'm Kha Luc</h1>
 
 <h3 align="center">
 AI & Data Science Student from Vietnam 🇻🇳
