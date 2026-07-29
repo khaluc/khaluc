@@ -42,9 +42,11 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 ---
 
-# 🛠️ Tech Stack
+---
 
-### Programming Languages
+<h2>🛠️ Tech Stack</h2>
+
+<h2>💻 Programming Languages</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,7 +55,7 @@ AI & Data Science Student from Vietnam 🇻🇳
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### AI • Machine Learning • Data Science
+<h2>🤖 AI • Machine Learning • Data Science</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -64,7 +66,7 @@ AI & Data Science Student from Vietnam 🇻🇳
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### LLM • GenAI
+<h2>🧠 LLM • GenAI</h2>
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
@@ -75,7 +77,7 @@ AI & Data Science Student from Vietnam 🇻🇳
 <img src="https://img.shields.io/badge/FAISS-0055A4?style=for-the-badge"/>
 </p>
 
-### Tools & Platforms
+<h2>🛠️ Tools & Platforms</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
