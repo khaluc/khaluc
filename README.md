@@ -110,7 +110,7 @@ AI & Data Science Student from Vietnam 🇻🇳
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/khaluc/khaluc/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/khaluc/khaluc/gh-pages/github-contribution-grid-snake.svg"
     />
     <img
       alt="Contribution Snake"
