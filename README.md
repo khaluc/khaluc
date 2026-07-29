@@ -14,13 +14,13 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 ---
 
-## 🚀 About Me
+ <img src="https://media.tenor.com/pyTiAg1EDEsAAAAi/go-0529dream-hugo.gif" alt="Whale GIF" width="250"/> About Me
 
-- 🎓 Information Technology Student majoring in **Artificial Intelligence & Big Data**
-- 🤖 Interested in **Machine Learning, Deep Learning, LLMs, RAG, Multi-Agent Systems**
-- 🌱 Currently learning **Generative AI, MLOps**
-- 💡 Love building practical AI applications that solve real-world problems.
-- 📫 Reach me at **nkluc2212@gmail.com**
+- Information Technology Student majoring in **Artificial Intelligence & Big Data**
+- Interested in **Machine Learning, Deep Learning, LLMs, RAG, Multi-Agent Systems**
+- Currently learning **Generative AI, MLOps**
+- Love building practical AI applications that solve real-world problems.
+- Reach me at **nkluc2212@gmail.com**
 
 ---
 
@@ -42,7 +42,6 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 ---
 
----
 
 <h2>🛠️ Tech Stack</h2>
 
