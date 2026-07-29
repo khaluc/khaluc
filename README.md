@@ -84,7 +84,6 @@ AI & Data Science Student from Vietnam 🇻🇳
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -104,6 +103,21 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 # 🐍 Contribution Snake
 
+<h2>🐍 Contribution Snake</h2>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/khaluc/khaluc/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/khaluc/khaluc/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/khaluc/khaluc/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/khaluc/khaluc/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
