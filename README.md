@@ -88,19 +88,27 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 ---
 
-# 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaluc&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaluc&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khaluc&theme=tokyonight"
+    alt="Kha Luc GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khaluc&theme=tokyonight"
+    alt="Kha Luc Top Languages"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=khaluc&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=khaluc&theme=tokyonight&hide_border=true"
+    alt="Kha Luc GitHub Streak"
+  />
 </p>
-
----
-
 <h2>🐍 Contribution Snake</h2>
 <p align="center">
   <picture>
