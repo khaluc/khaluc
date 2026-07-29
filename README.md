@@ -14,7 +14,7 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 ---
 
- <img src="https://media.tenor.com/pyTiAg1EDEsAAAAi/go-0529dream-hugo.gif" alt="Whale GIF" width="250"/> About Me
+ ## 🐳 About Me
 
 - Information Technology Student majoring in **Artificial Intelligence & Big Data**
 - Interested in **Machine Learning, Deep Learning, LLMs, RAG, Multi-Agent Systems**
