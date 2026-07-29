@@ -18,9 +18,9 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 - 🎓 Information Technology Student majoring in **Artificial Intelligence & Big Data**
 - 🤖 Interested in **Machine Learning, Deep Learning, LLMs, RAG, Multi-Agent Systems**
-- 🌱 Currently learning **Generative AI, MLOps, Cloud Computing**
+- 🌱 Currently learning **Generative AI, MLOps**
 - 💡 Love building practical AI applications that solve real-world problems.
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **nkluc2212@gmail.com**
 
 ---
 
@@ -35,7 +35,7 @@ AI & Data Science Student from Vietnam 🇻🇳
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:nkluc2212@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
