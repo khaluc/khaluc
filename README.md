@@ -101,10 +101,7 @@ AI & Data Science Student from Vietnam 🇻🇳
 
 ---
 
-# 🐍 Contribution Snake
-
 <h2>🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source
